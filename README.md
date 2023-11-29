@@ -1,5 +1,4 @@
 <h1 align="center">Привет! Меня зовут Виктория </a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">  Я начинающий аналитик </h3>
 <h4 align="center">  <i> Мои интересы: анализ данных, аналитика BI, продуктовая аналитика</i>  </h4>
 
@@ -25,3 +24,6 @@
 -
 -
 -
+---
+### Мои контакты:
+**Email**: Kruglova_VD@mail.ru
