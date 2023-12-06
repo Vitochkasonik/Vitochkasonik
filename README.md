@@ -26,5 +26,5 @@
 -
 ---
 ### Мои контакты:
-**Email**: Kruglova_VD@mail.ru
-**Telegram**: @Vitochkasonik
+**Email**: Kruglova_VD@mail.ru    
+**Telegram**: https://t.me/Vitochkasonik
