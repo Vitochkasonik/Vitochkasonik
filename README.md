@@ -23,6 +23,11 @@
 #### Мои проекты:
 - [Исследование оттока клиентов банка ](https://github.com/Vitochkasonik/Churn_research) - дашборд в MS Power BI
 
+---
+#### Мои сертификаты:
+- [Симулятор аналитика](https://lab.karpov.courses/certificate/e16610e3-5119-4a74-be49-a71fd3353539/) - о прохождении karpov.courses "Симулятор аналитика"
+- [Аналитик BI](https://netology.ru/sharing/58c51b16aad1d20caac9ca40b74d1067?utm_source=social&utm_campaign=achievements) - о прохождении курса в Нетологии "Аналитик BI"
+- [Марафон данных](https://stepik.org/cert/2177256) - Первое знакомство c SQL и Python
 
 ---
 ### Мои контакты:
