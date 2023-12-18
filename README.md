@@ -24,6 +24,8 @@
 - [Исследование оттока клиентов банка ](https://github.com/Vitochkasonik/Churn_research) - дашборд в MS Power BI
 - [Задания из курса karpov.courses Симулятор аналитика](https://github.com/Vitochkasonik/Simulator_analitik):  
   * Создание дашбордов в Superset
+  * Составление SQL-запросов в Redash
+  * Анализ продуктовых метрик (Retention)
 
 ---
 #### Мои сертификаты:
